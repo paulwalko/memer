@@ -1,0 +1,1347 @@
+
+Welcome to Sopel. Loading modules...
+
+
+Downloading malwaredomains db...
+
+
+Registered 41 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading meme: No module named 'img2txt' (../../../../../../../.sopel/modules/meme.py:3)
+
+
+Registered 45 modules,
+1 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading img2txt: No module named 'ansi' (../../../../../../../.sopel/modules/img2txt.py:35)
+Error loading meme: invalid syntax (meme.py, line 3) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+
+
+Registered 44 modules,
+2 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading meme: invalid syntax (meme.py, line 3) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+Error loading img2txt: invalid syntax (img2txt.py, line 35) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+
+
+Registered 44 modules,
+2 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading img2txt: invalid syntax (img2txt.py, line 35) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+Error loading meme: invalid syntax (meme.py, line 3) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+Error loading ansi: No module named 'graphics_util' (../../../../../../../.sopel/modules/ansi.py:1)
+
+
+Registered 43 modules,
+3 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading meme: invalid syntax (meme.py, line 3) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+Error loading img2txt: invalid syntax (img2txt.py, line 35) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+
+
+Registered 44 modules,
+2 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connection error: EOF occurred in violation of protocol (_ssl.c:645)
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading ansi: No module named 'graphics_util' (../../../../../../../.sopel/modules/ansi.py:1)
+Error loading meme: invalid syntax (meme.py, line 3) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+Error loading img2txt: invalid syntax (img2txt.py, line 35) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+
+
+Registered 43 modules,
+3 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connection error: EOF occurred in violation of protocol (_ssl.c:645)
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading img2txt: invalid syntax (img2txt.py, line 35) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+Error loading meme: invalid syntax (meme.py, line 3) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+
+
+Registered 44 modules,
+2 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading meme: invalid syntax (meme.py, line 3) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+Error loading img2txt: invalid syntax (img2txt.py, line 35) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+
+
+Registered 44 modules,
+2 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading meme: No module named 'img2txt' (../../../../../../../.sopel/modules/meme.py:5)
+Error loading img2txt: invalid syntax (img2txt.py, line 35) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+
+
+Registered 44 modules,
+2 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading meme: No module named 'img2txt' (../../../../../../../.sopel/modules/meme.py:5)
+Error loading img2txt: invalid syntax (img2txt.py, line 35) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+Error loading ansi: No module named 'graphics_util' (../../../../../../../.sopel/modules/ansi.py:1)
+
+
+Registered 43 modules,
+3 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading meme: No module named 'img2txt' (../../../../../../../.sopel/modules/meme.py:5)
+Error loading img2txt: invalid syntax (img2txt.py, line 35) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+
+
+Registered 44 modules,
+2 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading meme: name 'os' is not defined (../../../../../../../.sopel/modules/meme.py:4)
+Error loading img2txt: invalid syntax (img2txt.py, line 35) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+Error loading ansi: No module named 'graphics_util' (../../../../../../../.sopel/modules/ansi.py:1)
+
+
+Registered 43 modules,
+3 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading meme: name 'os' is not defined (../../../../../../../.sopel/modules/meme.py:3)
+Error loading img2txt: invalid syntax (img2txt.py, line 35) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+
+
+Registered 44 modules,
+2 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading img2txt: invalid syntax (img2txt.py, line 35) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+Error loading meme: invalid syntax (img2txt.py, line 35) (../../../../../../../.sopel/modules/meme.py:4)
+
+
+Registered 44 modules,
+2 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/__init__.py:68: ResourceWarning: unclosed <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('10.129.225.143', 60256)>
+  break
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading img2txt: expected an indented block (img2txt.py, line 283) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+Error loading ansi: No module named 'graphics_util' (../../../../../../../.sopel/modules/ansi.py:1)
+Error loading meme: expected an indented block (img2txt.py, line 283) (../../../../../../../.sopel/modules/meme.py:4)
+
+
+Registered 43 modules,
+3 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading ansi: No module named 'graphics_util' (../../../../../../../.sopel/modules/ansi.py:1)
+Error loading img2txt: 'continue' not properly in loop (img2txt.py, line 278) (../../../../../../../.sopel/modules/<frozen importlib._bootstrap>:222)
+Error loading meme: 'continue' not properly in loop (img2txt.py, line 278) (../../../../../../../.sopel/modules/meme.py:4)
+
+
+Registered 43 modules,
+3 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading ansi: No module named 'graphics_util' (../../../../../../../.sopel/modules/ansi.py:1)
+
+
+Registered 45 modules,
+1 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 9, in meme
+    response = urllib.open(url)
+AttributeError: module 'urllib' has no attribute 'open'
+
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 9, in meme
+    response = urllib.open(url)
+AttributeError: module 'urllib' has no attribute 'open'
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 9, in meme
+    response = urllib.urlopen(url)
+AttributeError: module 'urllib' has no attribute 'urlopen'
+
+CRITICAL:sopel.modules.coretasks:Nick changed by server. This can cause unexpected behavior. Please restart the bot.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Nickname already in use!
+Calling shutdown for 0 modules.
+Closed!
+Warning: Disconnected. Reconnecting in 20 seconds...
+
+
+Interrupted
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Nickname already in use!
+Calling shutdown for 0 modules.
+Closed!
+Warning: Disconnected. Reconnecting in 20 seconds...
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading meme: No module named 'img2txt' (../../../../../../../.sopel/modules/meme.py:4)
+
+
+Registered 44 modules,
+1 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 9, in meme
+    response = urllib.request.urlopen(url)
+  File "/usr/lib64/python3.5/urllib/request.py", line 162, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib64/python3.5/urllib/request.py", line 471, in open
+    response = meth(req, response)
+  File "/usr/lib64/python3.5/urllib/request.py", line 581, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib64/python3.5/urllib/request.py", line 509, in error
+    return self._call_chain(*args)
+  File "/usr/lib64/python3.5/urllib/request.py", line 443, in _call_chain
+    result = func(*args)
+  File "/usr/lib64/python3.5/urllib/request.py", line 589, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 9, in meme
+    response = urllib.request.urlopen(url)
+  File "/usr/lib64/python3.5/urllib/request.py", line 162, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib64/python3.5/urllib/request.py", line 471, in open
+    response = meth(req, response)
+  File "/usr/lib64/python3.5/urllib/request.py", line 581, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib64/python3.5/urllib/request.py", line 509, in error
+    return self._call_chain(*args)
+  File "/usr/lib64/python3.5/urllib/request.py", line 443, in _call_chain
+    result = func(*args)
+  File "/usr/lib64/python3.5/urllib/request.py", line 589, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 9, in meme
+    with urllib.request.urlopen(url) as response, open(data.json, 'wb') as out_file:
+  File "/usr/lib64/python3.5/urllib/request.py", line 162, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib64/python3.5/urllib/request.py", line 471, in open
+    response = meth(req, response)
+  File "/usr/lib64/python3.5/urllib/request.py", line 581, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib64/python3.5/urllib/request.py", line 509, in error
+    return self._call_chain(*args)
+  File "/usr/lib64/python3.5/urllib/request.py", line 443, in _call_chain
+    result = func(*args)
+  File "/usr/lib64/python3.5/urllib/request.py", line 589, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 14, in meme
+    with urllib.request.urlopen(request) as response, open(data.json, 'wb') as out_file:
+UnboundLocalError: local variable 'data' referenced before assignment
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+{'success': True, 'data': {'memes': [{'url': 'http://i.imgflip.com/1bij.jpg', 'height': 335, 'id': '61579', 'width': 568, 'name': 'One Does Not Simply'}, {'url': 'http://i.imgflip.com/xh3me.jpg', 'height': 907, 'id': '56225174', 'width': 913, 'name': 'Be Like Bill'}, {'url': 'http://i.imgflip.com/9ehk.jpg', 'height': 387, 'id': '438680', 'width': 400, 'name': 'Batman Slapping Robin'}, {'url': 'http://i.imgflip.com/1bh8.jpg', 'height': 690, 'id': '61532', 'width': 550, 'name': 'The Most Interesting Man In The World'}, {'url': 'http://i.imgflip.com/26am.jpg', 'height': 437, 'id': '101470', 'width': 500, 'name': 'Ancient Aliens'}, {'url': 'http://i.imgflip.com/39t1o.jpg', 'height': 400, 'id': '5496396', 'width': 600, 'name': 'Leonardo Dicaprio Cheers'}, {'url': 'http://i.imgflip.com/1bgw.jpg', 'height': 414, 'id': '61520', 'width': 552, 'name': 'Futurama Fry'}, {'url': 'http://i.imgflip.com/7g1q.jpg', 'height': 381, 'id': '347390', 'width': 500, 'name': 'X, X Everywhere'}, {'url': 'http://i.imgflip.com/1bhf.jpg', 'height': 367, 'id': '61539', 'width': 552, 'name': 'First World Problems'}, {'url': 'http://i.imgflip.com/1bhm.jpg', 'height': 477, 'id': '61546', 'width': 622, 'name': 'Brace Yourselves X is Coming'}, {'url': 'http://i.imgflip.com/2fm6x.jpg', 'height': 403, 'id': '4087833', 'width': 298, 'name': 'Waiting Skeleton'}, {'url': 'http://i.imgflip.com/9sw43.jpg', 'height': 600, 'id': '16464531', 'width': 600, 'name': 'But Thats None Of My Business'}, {'url': 'http://i.imgflip.com/1bim.jpg', 'height': 545, 'id': '61582', 'width': 550, 'name': 'Creepy Condescending Wonka'}, {'url': 'http://i.imgflip.com/c2qn.jpg', 'height': 440, 'id': '563423', 'width': 526, 'name': 'That Would Be Great'}, {'url': 'http://i.imgflip.com/1bh3.jpg', 'height': 500, 'id': '61527', 'width': 500, 'name': 'Y U No'}, {'url': 'http://i.imgflip.com/1bip.jpg', 'height': 562, 'id': '61585', 'width': 475, 'name': 'Bad Luck Brian'}, {'url': 'http://i.imgflip.com/1bhk.jpg', 'height': 500, 'id': '61544', 'width': 500, 'name': 'Success Kid'}, {'url': 'http://i.imgflip.com/8p0a.jpg', 'height': 617, 'id': '405658', 'width': 500, 'name': 'Grumpy Cat'}, {'url': 'http://i.imgflip.com/8k0sa.jpg', 'height': 714, 'id': '14371066', 'width': 620, 'name': 'Star Wars Yoda'}, {'url': 'http://i.imgflip.com/4t0m5.jpg', 'height': 620, 'id': '8072285', 'width': 620, 'name': 'Doge'}, {'url': 'http://i.imgflip.com/265k.jpg', 'height': 426, 'id': '101288', 'width': 426, 'name': 'Third World Skeptical Kid'}, {'url': 'http://i.imgflip.com/wczz.jpg', 'height': 324, 'id': '1509839', 'width': 500, 'name': 'Captain Picard Facepalm'}, {'url': 'http://i.imgflip.com/5mcpl.jpg', 'height': 523, 'id': '9440985', 'width': 460, 'name': 'Face You Make Robert Downey Jr'}, {'url': 'http://i.imgflip.com/m78d.jpg', 'height': 649, 'id': '1035805', 'width': 500, 'name': 'Boardroom Meeting Suggestion'}, {'url': 'http://i.imgflip.com/32sx.jpg', 'height': 280, 'id': '143601', 'width': 500, 'name': 'Steve Harvey'}, {'url': 'http://i.imgflip.com/1bh9.jpg', 'height': 355, 'id': '61533', 'width': 500, 'name': 'X All The Y'}, {'url': 'http://i.imgflip.com/25w3.jpg', 'height': 303, 'id': '100947', 'width': 500, 'name': 'Matrix Morpheus'}, {'url': 'http://i.imgflip.com/59qi.jpg', 'height': 350, 'id': '245898', 'width': 500, 'name': 'Picard Wtf'}, {'url': 'http://i.imgflip.com/grr.jpg', 'height': 700, 'id': '21735', 'width': 568, 'name': 'The Rock Driving'}, {'url': 'http://i.imgflip.com/8h0c8.jpg', 'height': 626, 'id': '14230520', 'width': 599, 'name': 'Black Girl Wat'}, {'url': 'http://i.imgflip.com/gtj5t.jpg', 'height': 465, 'id': '28251713', 'width': 620, 'name': 'Oprah You Get A'}, {'url': 'http://i.imgflip.com/odluv.jpg', 'height': 405, 'id': '40945639', 'width': 500, 'name': 'Dr Evil Laser'}, {'url': 'http://i.imgflip.com/3pnmg.jpg', 'height': 600, 'id': '6235864', 'width': 423, 'name': 'Finding Neverland'}, {'url': 'http://i.imgflip.com/1bgs.jpg', 'height': 500, 'id': '61516', 'width': 500, 'name': 'Philosoraptor'}, {'url': 'http://i.imgflip.com/51s5.jpg', 'height': 332, 'id': '235589', 'width': 500, 'name': 'Evil Toddler'}, {'url': 'http://i.imgflip.com/5kdc.jpg', 'height': 348, 'id': '259680', 'width': 500, 'name': 'Am I The Only One Around Here'}, {'url': 'http://i.imgflip.com/25wb.jpg', 'height': 480, 'id': '100955', 'width': 460, 'name': 'Confession Bear'}, {'url': 'http://i.imgflip.com/9iz9.jpg', 'height': 378, 'id': '444501', 'width': 381, 'name': 'Maury Lie Detector'}, {'url': 'http://i.imgflip.com/23ls.jpg', 'height': 375, 'id': '97984', 'width': 500, 'name': 'Disaster Girl'}, {'url': 'http://i.imgflip.com/7zq97.jpg', 'height': 240, 'id': '13424299', 'width': 306, 'name': 'Yall Got Any More Of'}, {'url': 'http://i.imgflip.com/265j.jpg', 'height': 500, 'id': '101287', 'width': 500, 'name': 'Third World Success Kid'}, {'url': 'http://i.imgflip.com/1bik.jpg', 'height': 316, 'id': '61580', 'width': 420, 'name': 'Too Damn High'}, {'url': 'http://i.imgflip.com/2nuc.jpg', 'height': 330, 'id': '124212', 'width': 393, 'name': 'Say That Again I Dare You'}, {'url': 'http://i.imgflip.com/9hhr.jpg', 'height': 281, 'id': '442575', 'width': 500, 'name': 'Aint Nobody Got Time For That'}, {'url': 'http://i.imgflip.com/1bhw.jpg', 'height': 480, 'id': '61556', 'width': 640, 'name': 'Grandma Finds The Internet'}, {'url': 'http://i.imgflip.com/7dusq.jpg', 'height': 1200, 'id': '12403754', 'width': 575, 'name': 'Bad Pun Dog'}, {'url': 'http://i.imgflip.com/86vlk.jpg', 'height': 397, 'id': '13757816', 'width': 620, 'name': 'Awkward Moment Sealion'}, {'url': 'http://i.imgflip.com/269s.jpg', 'height': 454, 'id': '101440', 'width': 500, 'name': '10 Guy'}, {'url': 'http://i.imgflip.com/2cp1.jpg', 'height': 550, 'id': '109765', 'width': 491, 'name': 'Ill Just Wait Here'}, {'url': 'http://i.imgflip.com/jrj7.jpg', 'height': 333, 'id': '922147', 'width': 500, 'name': 'Laughing Men In Suits'}, {'url': 'http://i.imgflip.com/26br.jpg', 'height': 333, 'id': '101511', 'width': 500, 'name': 'Dont You Squidward'}, {'url': 'http://i.imgflip.com/26hb.jpg', 'height': 260, 'id': '101711', 'width': 253, 'name': 'Skeptical Baby'}, {'url': 'http://i.imgflip.com/26hg.jpg', 'height': 323, 'id': '101716', 'width': 500, 'name': 'Yo Dawg Heard You'}, {'url': 'http://i.imgflip.com/12dxv.jpg', 'height': 349, 'id': '1790995', 'width': 620, 'name': 'And everybody loses their minds'}, {'url': 'http://i.imgflip.com/46rh.jpg', 'height': 264, 'id': '195389', 'width': 500, 'name': 'Sparta Leonidas'}, {'url': 'http://i.imgflip.com/1bil.jpg', 'height': 604, 'id': '61581', 'width': 343, 'name': 'Put It Somewhere Else Patrick'}, {'url': 'http://i.imgflip.com/gft6.jpg', 'height': 281, 'id': '766986', 'width': 500, 'name': 'Aaaaand Its Gone'}, {'url': 'http://i.imgflip.com/cv1y0.jpg', 'height': 497, 'id': '21604248', 'width': 620, 'name': 'Mugatu So Hot Right Now'}, {'url': 'http://i.imgflip.com/1bin.jpg', 'height': 549, 'id': '61583', 'width': 551, 'name': 'Conspiracy Keanu'}, {'url': 'http://i.imgflip.com/fecg.jpg', 'height': 310, 'id': '718432', 'width': 259, 'name': 'Back In My Day'}, {'url': 'http://i.imgflip.com/3oyi.jpg', 'height': 300, 'id': '172314', 'width': 300, 'name': 'Kill Yourself Guy'}, {'url': 'http://i.imgflip.com/4vy0.jpg', 'height': 300, 'id': '228024', 'width': 300, 'name': 'Liam Neeson Taken'}, {'url': 'http://i.imgflip.com/govs4.jpg', 'height': 734, 'id': '28034788', 'width': 423, 'name': 'Marvel Civil War 1'}, {'url': 'http://i.imgflip.com/1bgy.jpg', 'height': 500, 'id': '61522', 'width': 500, 'name': 'Scumbag Steve'}, {'url': 'http://i.imgflip.com/1bio.jpg', 'height': 577, 'id': '61584', 'width': 576, 'name': 'Socially Awesome Awkward Penguin'}, {'url': 'http://i.imgflip.com/9gbzb.jpg', 'height': 341, 'id': '15878567', 'width': 620, 'name': 'You The Real MVP'}, {'url': 'http://i.imgflip.com/6bt40.jpg', 'height': 567, 'id': '10628640', 'width': 620, 'name': 'Archer'}, {'url': 'http://i.imgflip.com/3vzej.jpg', 'height': 676, 'id': '6531067', 'width': 620, 'name': 'See Nobody Cares'}, {'url': 'http://i.imgflip.com/8rwb.jpg', 'height': 330, 'id': '409403', 'width': 454, 'name': 'Obi Wan Kenobi'}, {'url': 'http://i.imgflip.com/8csq.jpg', 'height': 314, 'id': '389834', 'width': 214, 'name': 'Ryan Gosling'}, {'url': 'http://i.imgflip.com/af002.jpg', 'height': 589, 'id': '17496002', 'width': 500, 'name': 'Leonardo Dicaprio Wolf Of Wall Street'}, {'url': 'http://i.imgflip.com/3i7p.jpg', 'height': 366, 'id': '163573', 'width': 500, 'name': 'Imagination Spongebob'}, {'url': 'http://i.imgflip.com/dnn.jpg', 'height': 400, 'id': '17699', 'width': 400, 'name': 'Buddy Christ'}, {'url': 'http://i.imgflip.com/8u2b.jpg', 'height': 375, 'id': '412211', 'width': 500, 'name': 'Jackie Chan WTF'}, {'url': 'http://i.imgflip.com/25w8.jpg', 'height': 370, 'id': '100952', 'width': 500, 'name': 'Overly Attached Girlfriend'}, {'url': 'http://i.imgflip.com/qep4.jpg', 'height': 500, 'id': '1232104', 'width': 500, 'name': 'Pepperidge Farm Remembers'}, {'url': 'http://i.imgflip.com/tau4.jpg', 'height': 368, 'id': '1367068', 'width': 500, 'name': 'I Should Buy A Boat Cat'}, {'url': 'http://i.imgflip.com/bfexh.jpg', 'height': 665, 'id': '19194965', 'width': 620, 'name': 'Star Wars No'}, {'url': 'http://i.imgflip.com/tas1.jpg', 'height': 359, 'id': '1366993', 'width': 469, 'name': 'Spiderman Computer Desk'}, {'url': 'http://i.imgflip.com/7n5z.jpg', 'height': 379, 'id': '356615', 'width': 500, 'name': 'Peter Griffin News'}, {'url': 'http://i.imgflip.com/26ae.jpg', 'height': 604, 'id': '101462', 'width': 402, 'name': 'Ermahgerd Berks'}, {'url': 'http://i.imgflip.com/em3r.jpg', 'height': 394, 'id': '681831', 'width': 395, 'name': 'Gollum'}, {'url': 'http://i.imgflip.com/25w4.jpg', 'height': 272, 'id': '100948', 'width': 500, 'name': 'Sudden Clarity Clarence'}, {'url': 'http://i.imgflip.com/4mcml.jpg', 'height': 465, 'id': '7761261', 'width': 620, 'name': 'Unpopular Opinion Puffin'}, {'url': 'http://i.imgflip.com/5p31.jpg', 'height': 186, 'id': '265789', 'width': 271, 'name': 'Kevin Hart The Hell'}, {'url': 'http://i.imgflip.com/34y5.jpg', 'height': 320, 'id': '146381', 'width': 283, 'name': 'Angry Baby'}, {'url': 'http://i.imgflip.com/ljk.jpg', 'height': 667, 'id': '27920', 'width': 500, 'name': 'Surprised Koala'}, {'url': 'http://i.imgflip.com/3si4.jpg', 'height': 281, 'id': '176908', 'width': 500, 'name': 'Shut Up And Take My Money Fry'}, {'url': 'http://i.imgflip.com/7yk6.jpg', 'height': 720, 'id': '371382', 'width': 363, 'name': 'Simba Shadowy Place'}, {'url': 'http://i.imgflip.com/pry7.jpg', 'height': 704, 'id': '1202623', 'width': 500, 'name': 'Keep Calm And Carry On Red'}, {'url': 'http://i.imgflip.com/2b5p.jpg', 'height': 352, 'id': '107773', 'width': 461, 'name': 'Spiderman Peter Parker'}, {'url': 'http://i.imgflip.com/1bhu.jpg', 'height': 380, 'id': '61554', 'width': 551, 'name': 'Dwight Schrute'}, {'url': 'http://i.imgflip.com/582gv.jpg', 'height': 454, 'id': '8774527', 'width': 620, 'name': 'So I Got That Goin For Me Which Is Nice'}, {'url': 'http://i.imgflip.com/s4f1k.jpg', 'height': 1150, 'id': '47235368', 'width': 1600, 'name': 'Good Fellas Hilarious'}, {'url': 'http://i.imgflip.com/1wz1x.jpg', 'height': 418, 'id': '3218037', 'width': 300, 'name': "This Is Where I'd Put My Trophy If I Had One"}, {'url': 'http://i.imgflip.com/e8gx0.jpg', 'height': 412, 'id': '23909796', 'width': 620, 'name': 'Satisfied Seal'}, {'url': 'http://i.imgflip.com/6vq22.jpg', 'height': 694, 'id': '11557802', 'width': 620, 'name': 'Rick and Carl'}, {'url': 'http://i.imgflip.com/duwl.jpg', 'height': 320, 'id': '646581', 'width': 480, 'name': 'I Too Like To Live Dangerously'}, {'url': 'http://i.imgflip.com/b2ln.jpg', 'height': 181, 'id': '516587', 'width': 278, 'name': 'Look At All These'}, {'url': 'http://i.imgflip.com/qeqb.jpg', 'height': 333, 'id': '1232147', 'width': 500, 'name': 'Ron Burgundy'}]}}
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 21, in meme
+    jsonList = jsonResponse["data"]
+NameError: name 'jsonResponse' is not defined
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+{'memes': [{'name': 'One Does Not Simply', 'id': '61579', 'url': 'http://i.imgflip.com/1bij.jpg', 'width': 568, 'height': 335}, {'name': 'Be Like Bill', 'id': '56225174', 'url': 'http://i.imgflip.com/xh3me.jpg', 'width': 913, 'height': 907}, {'name': 'Batman Slapping Robin', 'id': '438680', 'url': 'http://i.imgflip.com/9ehk.jpg', 'width': 400, 'height': 387}, {'name': 'The Most Interesting Man In The World', 'id': '61532', 'url': 'http://i.imgflip.com/1bh8.jpg', 'width': 550, 'height': 690}, {'name': 'Ancient Aliens', 'id': '101470', 'url': 'http://i.imgflip.com/26am.jpg', 'width': 500, 'height': 437}, {'name': 'Leonardo Dicaprio Cheers', 'id': '5496396', 'url': 'http://i.imgflip.com/39t1o.jpg', 'width': 600, 'height': 400}, {'name': 'Futurama Fry', 'id': '61520', 'url': 'http://i.imgflip.com/1bgw.jpg', 'width': 552, 'height': 414}, {'name': 'X, X Everywhere', 'id': '347390', 'url': 'http://i.imgflip.com/7g1q.jpg', 'width': 500, 'height': 381}, {'name': 'First World Problems', 'id': '61539', 'url': 'http://i.imgflip.com/1bhf.jpg', 'width': 552, 'height': 367}, {'name': 'Brace Yourselves X is Coming', 'id': '61546', 'url': 'http://i.imgflip.com/1bhm.jpg', 'width': 622, 'height': 477}, {'name': 'Waiting Skeleton', 'id': '4087833', 'url': 'http://i.imgflip.com/2fm6x.jpg', 'width': 298, 'height': 403}, {'name': 'But Thats None Of My Business', 'id': '16464531', 'url': 'http://i.imgflip.com/9sw43.jpg', 'width': 600, 'height': 600}, {'name': 'Creepy Condescending Wonka', 'id': '61582', 'url': 'http://i.imgflip.com/1bim.jpg', 'width': 550, 'height': 545}, {'name': 'That Would Be Great', 'id': '563423', 'url': 'http://i.imgflip.com/c2qn.jpg', 'width': 526, 'height': 440}, {'name': 'Y U No', 'id': '61527', 'url': 'http://i.imgflip.com/1bh3.jpg', 'width': 500, 'height': 500}, {'name': 'Bad Luck Brian', 'id': '61585', 'url': 'http://i.imgflip.com/1bip.jpg', 'width': 475, 'height': 562}, {'name': 'Success Kid', 'id': '61544', 'url': 'http://i.imgflip.com/1bhk.jpg', 'width': 500, 'height': 500}, {'name': 'Grumpy Cat', 'id': '405658', 'url': 'http://i.imgflip.com/8p0a.jpg', 'width': 500, 'height': 617}, {'name': 'Star Wars Yoda', 'id': '14371066', 'url': 'http://i.imgflip.com/8k0sa.jpg', 'width': 620, 'height': 714}, {'name': 'Doge', 'id': '8072285', 'url': 'http://i.imgflip.com/4t0m5.jpg', 'width': 620, 'height': 620}, {'name': 'Third World Skeptical Kid', 'id': '101288', 'url': 'http://i.imgflip.com/265k.jpg', 'width': 426, 'height': 426}, {'name': 'Captain Picard Facepalm', 'id': '1509839', 'url': 'http://i.imgflip.com/wczz.jpg', 'width': 500, 'height': 324}, {'name': 'Face You Make Robert Downey Jr', 'id': '9440985', 'url': 'http://i.imgflip.com/5mcpl.jpg', 'width': 460, 'height': 523}, {'name': 'Boardroom Meeting Suggestion', 'id': '1035805', 'url': 'http://i.imgflip.com/m78d.jpg', 'width': 500, 'height': 649}, {'name': 'Steve Harvey', 'id': '143601', 'url': 'http://i.imgflip.com/32sx.jpg', 'width': 500, 'height': 280}, {'name': 'X All The Y', 'id': '61533', 'url': 'http://i.imgflip.com/1bh9.jpg', 'width': 500, 'height': 355}, {'name': 'Matrix Morpheus', 'id': '100947', 'url': 'http://i.imgflip.com/25w3.jpg', 'width': 500, 'height': 303}, {'name': 'Picard Wtf', 'id': '245898', 'url': 'http://i.imgflip.com/59qi.jpg', 'width': 500, 'height': 350}, {'name': 'The Rock Driving', 'id': '21735', 'url': 'http://i.imgflip.com/grr.jpg', 'width': 568, 'height': 700}, {'name': 'Black Girl Wat', 'id': '14230520', 'url': 'http://i.imgflip.com/8h0c8.jpg', 'width': 599, 'height': 626}, {'name': 'Oprah You Get A', 'id': '28251713', 'url': 'http://i.imgflip.com/gtj5t.jpg', 'width': 620, 'height': 465}, {'name': 'Dr Evil Laser', 'id': '40945639', 'url': 'http://i.imgflip.com/odluv.jpg', 'width': 500, 'height': 405}, {'name': 'Finding Neverland', 'id': '6235864', 'url': 'http://i.imgflip.com/3pnmg.jpg', 'width': 423, 'height': 600}, {'name': 'Philosoraptor', 'id': '61516', 'url': 'http://i.imgflip.com/1bgs.jpg', 'width': 500, 'height': 500}, {'name': 'Evil Toddler', 'id': '235589', 'url': 'http://i.imgflip.com/51s5.jpg', 'width': 500, 'height': 332}, {'name': 'Am I The Only One Around Here', 'id': '259680', 'url': 'http://i.imgflip.com/5kdc.jpg', 'width': 500, 'height': 348}, {'name': 'Confession Bear', 'id': '100955', 'url': 'http://i.imgflip.com/25wb.jpg', 'width': 460, 'height': 480}, {'name': 'Maury Lie Detector', 'id': '444501', 'url': 'http://i.imgflip.com/9iz9.jpg', 'width': 381, 'height': 378}, {'name': 'Disaster Girl', 'id': '97984', 'url': 'http://i.imgflip.com/23ls.jpg', 'width': 500, 'height': 375}, {'name': 'Yall Got Any More Of', 'id': '13424299', 'url': 'http://i.imgflip.com/7zq97.jpg', 'width': 306, 'height': 240}, {'name': 'Third World Success Kid', 'id': '101287', 'url': 'http://i.imgflip.com/265j.jpg', 'width': 500, 'height': 500}, {'name': 'Too Damn High', 'id': '61580', 'url': 'http://i.imgflip.com/1bik.jpg', 'width': 420, 'height': 316}, {'name': 'Say That Again I Dare You', 'id': '124212', 'url': 'http://i.imgflip.com/2nuc.jpg', 'width': 393, 'height': 330}, {'name': 'Aint Nobody Got Time For That', 'id': '442575', 'url': 'http://i.imgflip.com/9hhr.jpg', 'width': 500, 'height': 281}, {'name': 'Grandma Finds The Internet', 'id': '61556', 'url': 'http://i.imgflip.com/1bhw.jpg', 'width': 640, 'height': 480}, {'name': 'Bad Pun Dog', 'id': '12403754', 'url': 'http://i.imgflip.com/7dusq.jpg', 'width': 575, 'height': 1200}, {'name': 'Awkward Moment Sealion', 'id': '13757816', 'url': 'http://i.imgflip.com/86vlk.jpg', 'width': 620, 'height': 397}, {'name': '10 Guy', 'id': '101440', 'url': 'http://i.imgflip.com/269s.jpg', 'width': 500, 'height': 454}, {'name': 'Ill Just Wait Here', 'id': '109765', 'url': 'http://i.imgflip.com/2cp1.jpg', 'width': 491, 'height': 550}, {'name': 'Laughing Men In Suits', 'id': '922147', 'url': 'http://i.imgflip.com/jrj7.jpg', 'width': 500, 'height': 333}, {'name': 'Dont You Squidward', 'id': '101511', 'url': 'http://i.imgflip.com/26br.jpg', 'width': 500, 'height': 333}, {'name': 'Skeptical Baby', 'id': '101711', 'url': 'http://i.imgflip.com/26hb.jpg', 'width': 253, 'height': 260}, {'name': 'Yo Dawg Heard You', 'id': '101716', 'url': 'http://i.imgflip.com/26hg.jpg', 'width': 500, 'height': 323}, {'name': 'And everybody loses their minds', 'id': '1790995', 'url': 'http://i.imgflip.com/12dxv.jpg', 'width': 620, 'height': 349}, {'name': 'Sparta Leonidas', 'id': '195389', 'url': 'http://i.imgflip.com/46rh.jpg', 'width': 500, 'height': 264}, {'name': 'Put It Somewhere Else Patrick', 'id': '61581', 'url': 'http://i.imgflip.com/1bil.jpg', 'width': 343, 'height': 604}, {'name': 'Aaaaand Its Gone', 'id': '766986', 'url': 'http://i.imgflip.com/gft6.jpg', 'width': 500, 'height': 281}, {'name': 'Mugatu So Hot Right Now', 'id': '21604248', 'url': 'http://i.imgflip.com/cv1y0.jpg', 'width': 620, 'height': 497}, {'name': 'Conspiracy Keanu', 'id': '61583', 'url': 'http://i.imgflip.com/1bin.jpg', 'width': 551, 'height': 549}, {'name': 'Back In My Day', 'id': '718432', 'url': 'http://i.imgflip.com/fecg.jpg', 'width': 259, 'height': 310}, {'name': 'Kill Yourself Guy', 'id': '172314', 'url': 'http://i.imgflip.com/3oyi.jpg', 'width': 300, 'height': 300}, {'name': 'Liam Neeson Taken', 'id': '228024', 'url': 'http://i.imgflip.com/4vy0.jpg', 'width': 300, 'height': 300}, {'name': 'Marvel Civil War 1', 'id': '28034788', 'url': 'http://i.imgflip.com/govs4.jpg', 'width': 423, 'height': 734}, {'name': 'Scumbag Steve', 'id': '61522', 'url': 'http://i.imgflip.com/1bgy.jpg', 'width': 500, 'height': 500}, {'name': 'Socially Awesome Awkward Penguin', 'id': '61584', 'url': 'http://i.imgflip.com/1bio.jpg', 'width': 576, 'height': 577}, {'name': 'You The Real MVP', 'id': '15878567', 'url': 'http://i.imgflip.com/9gbzb.jpg', 'width': 620, 'height': 341}, {'name': 'Archer', 'id': '10628640', 'url': 'http://i.imgflip.com/6bt40.jpg', 'width': 620, 'height': 567}, {'name': 'See Nobody Cares', 'id': '6531067', 'url': 'http://i.imgflip.com/3vzej.jpg', 'width': 620, 'height': 676}, {'name': 'Obi Wan Kenobi', 'id': '409403', 'url': 'http://i.imgflip.com/8rwb.jpg', 'width': 454, 'height': 330}, {'name': 'Ryan Gosling', 'id': '389834', 'url': 'http://i.imgflip.com/8csq.jpg', 'width': 214, 'height': 314}, {'name': 'Leonardo Dicaprio Wolf Of Wall Street', 'id': '17496002', 'url': 'http://i.imgflip.com/af002.jpg', 'width': 500, 'height': 589}, {'name': 'Imagination Spongebob', 'id': '163573', 'url': 'http://i.imgflip.com/3i7p.jpg', 'width': 500, 'height': 366}, {'name': 'Buddy Christ', 'id': '17699', 'url': 'http://i.imgflip.com/dnn.jpg', 'width': 400, 'height': 400}, {'name': 'Jackie Chan WTF', 'id': '412211', 'url': 'http://i.imgflip.com/8u2b.jpg', 'width': 500, 'height': 375}, {'name': 'Overly Attached Girlfriend', 'id': '100952', 'url': 'http://i.imgflip.com/25w8.jpg', 'width': 500, 'height': 370}, {'name': 'Pepperidge Farm Remembers', 'id': '1232104', 'url': 'http://i.imgflip.com/qep4.jpg', 'width': 500, 'height': 500}, {'name': 'I Should Buy A Boat Cat', 'id': '1367068', 'url': 'http://i.imgflip.com/tau4.jpg', 'width': 500, 'height': 368}, {'name': 'Star Wars No', 'id': '19194965', 'url': 'http://i.imgflip.com/bfexh.jpg', 'width': 620, 'height': 665}, {'name': 'Spiderman Computer Desk', 'id': '1366993', 'url': 'http://i.imgflip.com/tas1.jpg', 'width': 469, 'height': 359}, {'name': 'Peter Griffin News', 'id': '356615', 'url': 'http://i.imgflip.com/7n5z.jpg', 'width': 500, 'height': 379}, {'name': 'Ermahgerd Berks', 'id': '101462', 'url': 'http://i.imgflip.com/26ae.jpg', 'width': 402, 'height': 604}, {'name': 'Gollum', 'id': '681831', 'url': 'http://i.imgflip.com/em3r.jpg', 'width': 395, 'height': 394}, {'name': 'Sudden Clarity Clarence', 'id': '100948', 'url': 'http://i.imgflip.com/25w4.jpg', 'width': 500, 'height': 272}, {'name': 'Unpopular Opinion Puffin', 'id': '7761261', 'url': 'http://i.imgflip.com/4mcml.jpg', 'width': 620, 'height': 465}, {'name': 'Kevin Hart The Hell', 'id': '265789', 'url': 'http://i.imgflip.com/5p31.jpg', 'width': 271, 'height': 186}, {'name': 'Angry Baby', 'id': '146381', 'url': 'http://i.imgflip.com/34y5.jpg', 'width': 283, 'height': 320}, {'name': 'Surprised Koala', 'id': '27920', 'url': 'http://i.imgflip.com/ljk.jpg', 'width': 500, 'height': 667}, {'name': 'Shut Up And Take My Money Fry', 'id': '176908', 'url': 'http://i.imgflip.com/3si4.jpg', 'width': 500, 'height': 281}, {'name': 'Simba Shadowy Place', 'id': '371382', 'url': 'http://i.imgflip.com/7yk6.jpg', 'width': 363, 'height': 720}, {'name': 'Keep Calm And Carry On Red', 'id': '1202623', 'url': 'http://i.imgflip.com/pry7.jpg', 'width': 500, 'height': 704}, {'name': 'Spiderman Peter Parker', 'id': '107773', 'url': 'http://i.imgflip.com/2b5p.jpg', 'width': 461, 'height': 352}, {'name': 'Dwight Schrute', 'id': '61554', 'url': 'http://i.imgflip.com/1bhu.jpg', 'width': 551, 'height': 380}, {'name': 'So I Got That Goin For Me Which Is Nice', 'id': '8774527', 'url': 'http://i.imgflip.com/582gv.jpg', 'width': 620, 'height': 454}, {'name': 'Good Fellas Hilarious', 'id': '47235368', 'url': 'http://i.imgflip.com/s4f1k.jpg', 'width': 1600, 'height': 1150}, {'name': "This Is Where I'd Put My Trophy If I Had One", 'id': '3218037', 'url': 'http://i.imgflip.com/1wz1x.jpg', 'width': 300, 'height': 418}, {'name': 'Satisfied Seal', 'id': '23909796', 'url': 'http://i.imgflip.com/e8gx0.jpg', 'width': 620, 'height': 412}, {'name': 'Rick and Carl', 'id': '11557802', 'url': 'http://i.imgflip.com/6vq22.jpg', 'width': 620, 'height': 694}, {'name': 'I Too Like To Live Dangerously', 'id': '646581', 'url': 'http://i.imgflip.com/duwl.jpg', 'width': 480, 'height': 320}, {'name': 'Look At All These', 'id': '516587', 'url': 'http://i.imgflip.com/b2ln.jpg', 'width': 278, 'height': 181}, {'name': 'Ron Burgundy', 'id': '1232147', 'url': 'http://i.imgflip.com/qeqb.jpg', 'width': 500, 'height': 333}]}
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 22, in meme
+    memeData = random.choice(jsonList)
+  File "/home/paul/workspace/memer/meme/lib/python3.5/random.py", line 256, in choice
+    return seq[i]
+KeyError: 0
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+[{'height': 335, 'id': '61579', 'url': 'http://i.imgflip.com/1bij.jpg', 'width': 568, 'name': 'One Does Not Simply'}, {'height': 907, 'id': '56225174', 'url': 'http://i.imgflip.com/xh3me.jpg', 'width': 913, 'name': 'Be Like Bill'}, {'height': 387, 'id': '438680', 'url': 'http://i.imgflip.com/9ehk.jpg', 'width': 400, 'name': 'Batman Slapping Robin'}, {'height': 690, 'id': '61532', 'url': 'http://i.imgflip.com/1bh8.jpg', 'width': 550, 'name': 'The Most Interesting Man In The World'}, {'height': 437, 'id': '101470', 'url': 'http://i.imgflip.com/26am.jpg', 'width': 500, 'name': 'Ancient Aliens'}, {'height': 400, 'id': '5496396', 'url': 'http://i.imgflip.com/39t1o.jpg', 'width': 600, 'name': 'Leonardo Dicaprio Cheers'}, {'height': 414, 'id': '61520', 'url': 'http://i.imgflip.com/1bgw.jpg', 'width': 552, 'name': 'Futurama Fry'}, {'height': 381, 'id': '347390', 'url': 'http://i.imgflip.com/7g1q.jpg', 'width': 500, 'name': 'X, X Everywhere'}, {'height': 367, 'id': '61539', 'url': 'http://i.imgflip.com/1bhf.jpg', 'width': 552, 'name': 'First World Problems'}, {'height': 477, 'id': '61546', 'url': 'http://i.imgflip.com/1bhm.jpg', 'width': 622, 'name': 'Brace Yourselves X is Coming'}, {'height': 403, 'id': '4087833', 'url': 'http://i.imgflip.com/2fm6x.jpg', 'width': 298, 'name': 'Waiting Skeleton'}, {'height': 600, 'id': '16464531', 'url': 'http://i.imgflip.com/9sw43.jpg', 'width': 600, 'name': 'But Thats None Of My Business'}, {'height': 545, 'id': '61582', 'url': 'http://i.imgflip.com/1bim.jpg', 'width': 550, 'name': 'Creepy Condescending Wonka'}, {'height': 440, 'id': '563423', 'url': 'http://i.imgflip.com/c2qn.jpg', 'width': 526, 'name': 'That Would Be Great'}, {'height': 500, 'id': '61527', 'url': 'http://i.imgflip.com/1bh3.jpg', 'width': 500, 'name': 'Y U No'}, {'height': 562, 'id': '61585', 'url': 'http://i.imgflip.com/1bip.jpg', 'width': 475, 'name': 'Bad Luck Brian'}, {'height': 500, 'id': '61544', 'url': 'http://i.imgflip.com/1bhk.jpg', 'width': 500, 'name': 'Success Kid'}, {'height': 617, 'id': '405658', 'url': 'http://i.imgflip.com/8p0a.jpg', 'width': 500, 'name': 'Grumpy Cat'}, {'height': 714, 'id': '14371066', 'url': 'http://i.imgflip.com/8k0sa.jpg', 'width': 620, 'name': 'Star Wars Yoda'}, {'height': 620, 'id': '8072285', 'url': 'http://i.imgflip.com/4t0m5.jpg', 'width': 620, 'name': 'Doge'}, {'height': 426, 'id': '101288', 'url': 'http://i.imgflip.com/265k.jpg', 'width': 426, 'name': 'Third World Skeptical Kid'}, {'height': 324, 'id': '1509839', 'url': 'http://i.imgflip.com/wczz.jpg', 'width': 500, 'name': 'Captain Picard Facepalm'}, {'height': 523, 'id': '9440985', 'url': 'http://i.imgflip.com/5mcpl.jpg', 'width': 460, 'name': 'Face You Make Robert Downey Jr'}, {'height': 649, 'id': '1035805', 'url': 'http://i.imgflip.com/m78d.jpg', 'width': 500, 'name': 'Boardroom Meeting Suggestion'}, {'height': 280, 'id': '143601', 'url': 'http://i.imgflip.com/32sx.jpg', 'width': 500, 'name': 'Steve Harvey'}, {'height': 355, 'id': '61533', 'url': 'http://i.imgflip.com/1bh9.jpg', 'width': 500, 'name': 'X All The Y'}, {'height': 303, 'id': '100947', 'url': 'http://i.imgflip.com/25w3.jpg', 'width': 500, 'name': 'Matrix Morpheus'}, {'height': 350, 'id': '245898', 'url': 'http://i.imgflip.com/59qi.jpg', 'width': 500, 'name': 'Picard Wtf'}, {'height': 700, 'id': '21735', 'url': 'http://i.imgflip.com/grr.jpg', 'width': 568, 'name': 'The Rock Driving'}, {'height': 626, 'id': '14230520', 'url': 'http://i.imgflip.com/8h0c8.jpg', 'width': 599, 'name': 'Black Girl Wat'}, {'height': 465, 'id': '28251713', 'url': 'http://i.imgflip.com/gtj5t.jpg', 'width': 620, 'name': 'Oprah You Get A'}, {'height': 405, 'id': '40945639', 'url': 'http://i.imgflip.com/odluv.jpg', 'width': 500, 'name': 'Dr Evil Laser'}, {'height': 600, 'id': '6235864', 'url': 'http://i.imgflip.com/3pnmg.jpg', 'width': 423, 'name': 'Finding Neverland'}, {'height': 500, 'id': '61516', 'url': 'http://i.imgflip.com/1bgs.jpg', 'width': 500, 'name': 'Philosoraptor'}, {'height': 332, 'id': '235589', 'url': 'http://i.imgflip.com/51s5.jpg', 'width': 500, 'name': 'Evil Toddler'}, {'height': 348, 'id': '259680', 'url': 'http://i.imgflip.com/5kdc.jpg', 'width': 500, 'name': 'Am I The Only One Around Here'}, {'height': 480, 'id': '100955', 'url': 'http://i.imgflip.com/25wb.jpg', 'width': 460, 'name': 'Confession Bear'}, {'height': 378, 'id': '444501', 'url': 'http://i.imgflip.com/9iz9.jpg', 'width': 381, 'name': 'Maury Lie Detector'}, {'height': 375, 'id': '97984', 'url': 'http://i.imgflip.com/23ls.jpg', 'width': 500, 'name': 'Disaster Girl'}, {'height': 240, 'id': '13424299', 'url': 'http://i.imgflip.com/7zq97.jpg', 'width': 306, 'name': 'Yall Got Any More Of'}, {'height': 500, 'id': '101287', 'url': 'http://i.imgflip.com/265j.jpg', 'width': 500, 'name': 'Third World Success Kid'}, {'height': 316, 'id': '61580', 'url': 'http://i.imgflip.com/1bik.jpg', 'width': 420, 'name': 'Too Damn High'}, {'height': 330, 'id': '124212', 'url': 'http://i.imgflip.com/2nuc.jpg', 'width': 393, 'name': 'Say That Again I Dare You'}, {'height': 281, 'id': '442575', 'url': 'http://i.imgflip.com/9hhr.jpg', 'width': 500, 'name': 'Aint Nobody Got Time For That'}, {'height': 480, 'id': '61556', 'url': 'http://i.imgflip.com/1bhw.jpg', 'width': 640, 'name': 'Grandma Finds The Internet'}, {'height': 1200, 'id': '12403754', 'url': 'http://i.imgflip.com/7dusq.jpg', 'width': 575, 'name': 'Bad Pun Dog'}, {'height': 397, 'id': '13757816', 'url': 'http://i.imgflip.com/86vlk.jpg', 'width': 620, 'name': 'Awkward Moment Sealion'}, {'height': 454, 'id': '101440', 'url': 'http://i.imgflip.com/269s.jpg', 'width': 500, 'name': '10 Guy'}, {'height': 550, 'id': '109765', 'url': 'http://i.imgflip.com/2cp1.jpg', 'width': 491, 'name': 'Ill Just Wait Here'}, {'height': 333, 'id': '922147', 'url': 'http://i.imgflip.com/jrj7.jpg', 'width': 500, 'name': 'Laughing Men In Suits'}, {'height': 333, 'id': '101511', 'url': 'http://i.imgflip.com/26br.jpg', 'width': 500, 'name': 'Dont You Squidward'}, {'height': 260, 'id': '101711', 'url': 'http://i.imgflip.com/26hb.jpg', 'width': 253, 'name': 'Skeptical Baby'}, {'height': 323, 'id': '101716', 'url': 'http://i.imgflip.com/26hg.jpg', 'width': 500, 'name': 'Yo Dawg Heard You'}, {'height': 349, 'id': '1790995', 'url': 'http://i.imgflip.com/12dxv.jpg', 'width': 620, 'name': 'And everybody loses their minds'}, {'height': 264, 'id': '195389', 'url': 'http://i.imgflip.com/46rh.jpg', 'width': 500, 'name': 'Sparta Leonidas'}, {'height': 604, 'id': '61581', 'url': 'http://i.imgflip.com/1bil.jpg', 'width': 343, 'name': 'Put It Somewhere Else Patrick'}, {'height': 281, 'id': '766986', 'url': 'http://i.imgflip.com/gft6.jpg', 'width': 500, 'name': 'Aaaaand Its Gone'}, {'height': 497, 'id': '21604248', 'url': 'http://i.imgflip.com/cv1y0.jpg', 'width': 620, 'name': 'Mugatu So Hot Right Now'}, {'height': 549, 'id': '61583', 'url': 'http://i.imgflip.com/1bin.jpg', 'width': 551, 'name': 'Conspiracy Keanu'}, {'height': 310, 'id': '718432', 'url': 'http://i.imgflip.com/fecg.jpg', 'width': 259, 'name': 'Back In My Day'}, {'height': 300, 'id': '172314', 'url': 'http://i.imgflip.com/3oyi.jpg', 'width': 300, 'name': 'Kill Yourself Guy'}, {'height': 300, 'id': '228024', 'url': 'http://i.imgflip.com/4vy0.jpg', 'width': 300, 'name': 'Liam Neeson Taken'}, {'height': 734, 'id': '28034788', 'url': 'http://i.imgflip.com/govs4.jpg', 'width': 423, 'name': 'Marvel Civil War 1'}, {'height': 500, 'id': '61522', 'url': 'http://i.imgflip.com/1bgy.jpg', 'width': 500, 'name': 'Scumbag Steve'}, {'height': 577, 'id': '61584', 'url': 'http://i.imgflip.com/1bio.jpg', 'width': 576, 'name': 'Socially Awesome Awkward Penguin'}, {'height': 341, 'id': '15878567', 'url': 'http://i.imgflip.com/9gbzb.jpg', 'width': 620, 'name': 'You The Real MVP'}, {'height': 567, 'id': '10628640', 'url': 'http://i.imgflip.com/6bt40.jpg', 'width': 620, 'name': 'Archer'}, {'height': 676, 'id': '6531067', 'url': 'http://i.imgflip.com/3vzej.jpg', 'width': 620, 'name': 'See Nobody Cares'}, {'height': 330, 'id': '409403', 'url': 'http://i.imgflip.com/8rwb.jpg', 'width': 454, 'name': 'Obi Wan Kenobi'}, {'height': 314, 'id': '389834', 'url': 'http://i.imgflip.com/8csq.jpg', 'width': 214, 'name': 'Ryan Gosling'}, {'height': 589, 'id': '17496002', 'url': 'http://i.imgflip.com/af002.jpg', 'width': 500, 'name': 'Leonardo Dicaprio Wolf Of Wall Street'}, {'height': 366, 'id': '163573', 'url': 'http://i.imgflip.com/3i7p.jpg', 'width': 500, 'name': 'Imagination Spongebob'}, {'height': 400, 'id': '17699', 'url': 'http://i.imgflip.com/dnn.jpg', 'width': 400, 'name': 'Buddy Christ'}, {'height': 375, 'id': '412211', 'url': 'http://i.imgflip.com/8u2b.jpg', 'width': 500, 'name': 'Jackie Chan WTF'}, {'height': 370, 'id': '100952', 'url': 'http://i.imgflip.com/25w8.jpg', 'width': 500, 'name': 'Overly Attached Girlfriend'}, {'height': 500, 'id': '1232104', 'url': 'http://i.imgflip.com/qep4.jpg', 'width': 500, 'name': 'Pepperidge Farm Remembers'}, {'height': 368, 'id': '1367068', 'url': 'http://i.imgflip.com/tau4.jpg', 'width': 500, 'name': 'I Should Buy A Boat Cat'}, {'height': 665, 'id': '19194965', 'url': 'http://i.imgflip.com/bfexh.jpg', 'width': 620, 'name': 'Star Wars No'}, {'height': 359, 'id': '1366993', 'url': 'http://i.imgflip.com/tas1.jpg', 'width': 469, 'name': 'Spiderman Computer Desk'}, {'height': 379, 'id': '356615', 'url': 'http://i.imgflip.com/7n5z.jpg', 'width': 500, 'name': 'Peter Griffin News'}, {'height': 604, 'id': '101462', 'url': 'http://i.imgflip.com/26ae.jpg', 'width': 402, 'name': 'Ermahgerd Berks'}, {'height': 394, 'id': '681831', 'url': 'http://i.imgflip.com/em3r.jpg', 'width': 395, 'name': 'Gollum'}, {'height': 272, 'id': '100948', 'url': 'http://i.imgflip.com/25w4.jpg', 'width': 500, 'name': 'Sudden Clarity Clarence'}, {'height': 465, 'id': '7761261', 'url': 'http://i.imgflip.com/4mcml.jpg', 'width': 620, 'name': 'Unpopular Opinion Puffin'}, {'height': 186, 'id': '265789', 'url': 'http://i.imgflip.com/5p31.jpg', 'width': 271, 'name': 'Kevin Hart The Hell'}, {'height': 320, 'id': '146381', 'url': 'http://i.imgflip.com/34y5.jpg', 'width': 283, 'name': 'Angry Baby'}, {'height': 667, 'id': '27920', 'url': 'http://i.imgflip.com/ljk.jpg', 'width': 500, 'name': 'Surprised Koala'}, {'height': 281, 'id': '176908', 'url': 'http://i.imgflip.com/3si4.jpg', 'width': 500, 'name': 'Shut Up And Take My Money Fry'}, {'height': 720, 'id': '371382', 'url': 'http://i.imgflip.com/7yk6.jpg', 'width': 363, 'name': 'Simba Shadowy Place'}, {'height': 704, 'id': '1202623', 'url': 'http://i.imgflip.com/pry7.jpg', 'width': 500, 'name': 'Keep Calm And Carry On Red'}, {'height': 352, 'id': '107773', 'url': 'http://i.imgflip.com/2b5p.jpg', 'width': 461, 'name': 'Spiderman Peter Parker'}, {'height': 380, 'id': '61554', 'url': 'http://i.imgflip.com/1bhu.jpg', 'width': 551, 'name': 'Dwight Schrute'}, {'height': 454, 'id': '8774527', 'url': 'http://i.imgflip.com/582gv.jpg', 'width': 620, 'name': 'So I Got That Goin For Me Which Is Nice'}, {'height': 1150, 'id': '47235368', 'url': 'http://i.imgflip.com/s4f1k.jpg', 'width': 1600, 'name': 'Good Fellas Hilarious'}, {'height': 418, 'id': '3218037', 'url': 'http://i.imgflip.com/1wz1x.jpg', 'width': 300, 'name': "This Is Where I'd Put My Trophy If I Had One"}, {'height': 412, 'id': '23909796', 'url': 'http://i.imgflip.com/e8gx0.jpg', 'width': 620, 'name': 'Satisfied Seal'}, {'height': 694, 'id': '11557802', 'url': 'http://i.imgflip.com/6vq22.jpg', 'width': 620, 'name': 'Rick and Carl'}, {'height': 320, 'id': '646581', 'url': 'http://i.imgflip.com/duwl.jpg', 'width': 480, 'name': 'I Too Like To Live Dangerously'}, {'height': 181, 'id': '516587', 'url': 'http://i.imgflip.com/b2ln.jpg', 'width': 278, 'name': 'Look At All These'}, {'height': 333, 'id': '1232147', 'url': 'http://i.imgflip.com/qeqb.jpg', 'width': 500, 'name': 'Ron Burgundy'}]
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+{'url': 'http://i.imgflip.com/5mcpl.jpg', 'name': 'Face You Make Robert Downey Jr', 'width': 460, 'height': 523, 'id': '9440985'}
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+http://i.imgflip.com/ljk.jpg
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+http://i.imgflip.com/1bgs.jpg
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 28, in meme
+    f.write(urllib.urlopen(memeURL).read())
+AttributeError: module 'urllib' has no attribute 'urlopen'
+
+/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py:444: ResourceWarning: unclosed file <_io.BufferedWriter name='image.jpg'>
+  self.error(trigger)
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+http://i.imgflip.com/1bhu.jpg
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 28, in meme
+    f.write(urllib.request.urlopen(memeURL).read())
+  File "/usr/lib64/python3.5/urllib/request.py", line 162, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib64/python3.5/urllib/request.py", line 471, in open
+    response = meth(req, response)
+  File "/usr/lib64/python3.5/urllib/request.py", line 581, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib64/python3.5/urllib/request.py", line 509, in error
+    return self._call_chain(*args)
+  File "/usr/lib64/python3.5/urllib/request.py", line 443, in _call_chain
+    result = func(*args)
+  File "/usr/lib64/python3.5/urllib/request.py", line 589, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+
+/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py:444: ResourceWarning: unclosed file <_io.BufferedWriter name='image.jpg'>
+  self.error(trigger)
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+http://i.imgflip.com/23ls.jpg
+/home/paul/workspace/memer/meme/lib/python3.5/site-packages/PIL/Image.py:842: ResourceWarning: unclosed file <_io.BufferedReader name='image.jpg'>
+  self.load()
+http://i.imgflip.com/26hg.jpg
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+http://i.imgflip.com/pry7.jpg
+/home/paul/workspace/memer/meme/lib/python3.5/site-packages/PIL/Image.py:842: ResourceWarning: unclosed file <_io.BufferedReader name='image.jpg'>
+  self.load()
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+http://i.imgflip.com/tas1.jpg
+/home/paul/workspace/memer/meme/lib/python3.5/site-packages/PIL/Image.py:842: ResourceWarning: unclosed file <_io.BufferedReader name='image.jpg'>
+  self.load()
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+7777777777777??????7777777777777777777777777>>>>>>
+7777777777777???????777777777777777777777777>>>>>>
+77777777777?7??777777????77777777?7??7>>?777>>>>>>
+?7??7777777???????7?????????77777?C>7>>7?777>>>>>>
+?777777777????????77????????77777??>OO7>?777777777
+?7777???????????????????77??77777??>$Q7>777777>777
+77777?7??????????????77?77??77777??7$$>>7777777777
+????????????????????????????77777?7>HQ>!77777>7777
+????????????????????????????77777?7CCCCO777777>777
+???????????????????????????777777?7CHCCC77777>>77>
+?????????????????????7?77777?7777?>77>7>777>>>>>7>
+?????????????????????77777?77$C7777777>7>7>>7>>77>
+????????????????????????77???O$777777777>7>>7>>77>
+??????????????????????????77?$O77777777777777>>>7>
+QQQQQ7????????????7??CC??7777?Q77777777777777>>>>>
+QQQQQQ????????????7QQHQQ??7?$$CO7777777>>>>>>>>>>>
+QQQQQQ???????????77QQQQQ??CCC$CC?>7777>>>>>>>>>>>>
+QQQQQQ???????????O$OOO$$QQQ$HHH$$Q777777>>>>>>>>>>
+QQQQHQ?????7OOOOOOCCC???:-;?MMNM$CCOOC?7>>>>>>>>>>
+QQQQQQ?????QHHQ$$$$OOC?CC$$$NNNHCCCOO$$7>>>>>>>>>>
+QQQQQQ$Q7??Q$$$$$QQQQHHQ$$$$$OCO$QHQQQ$>>>>>>>>>>>
+QQQQQQQQ???Q$$QQQQQ$$$$$$$$$QQHQQQQQQ$$>777>>>>>>>
+QQQQQQQQ7??$$$$$$$$$$$$$$$$$$O$Q$$$$$Q$7777>>>>>>>
+QQQQQQQQ???O$$$$$$$$$$$$$$$$$O$$$$$$$$$7777>>>>>>>
+QQQQQQQ$CCC$$$$$$$$$$$$$$$$$O$$$$$$$$$$77>7>>>>>>>
+$$$$Q$$Q???O$Q$QQQ$$$$$$$$$$$O$Q$$$$$$$7???????CCC
+$$$$$$$Q???C$QQQQQ$$$$$$$$$$$OQQ$$$$$$$77777777777
+$$$Q$$HH????$$$QQ$$$$$$$$$$$$$QQ$$$$$$$77777777777
+???????????C$$Q$$$$$QQQ$$$$$$$$$$$$$$$Q77777777777
+????????????????$Q$$$$$$$$$Q$O$$$$$$QQ777777777777
+??????????????????7?7OQ$$$$$$$$$$$$>77777777777777
+??????????????????????????7O$$QQ777777777777777777
+?????????????????????????????OO>777777777777777777
+7?????????????????????????????77777777777777777777
+???????????????????????????????7777777777777777777
+?????????????????????????????????????7777777777777
+?????????????????????????????????????????777777777
+
+http://i.imgflip.com/1bin.jpg
+NNNNNNHHHHHHHHNNNNHNNNHOOOO$QQQQ$$QQQQQQQQQQQQQQHH
+MMMMMMMMMMMMMMMMMNNNNQOO$Q$QNNNHQQO$$QQQQQQQQQQHHH
+MMMMMMMMMMMMMMNHQQQ$$QQHQQNHNHNNNNQ$COOOOCOOC7>>>7
+MMMMMMMMMMMMNHHQQ$$QQHHHHHHQHQMQHHNQQ$OOOOO$O?!>??
+MMMMMMMMMMNNHQH$HQQQQHQHQQHHHQNQQQHHQ$$OOOOOO7-:?C
+MMMMMNMMNNNHH$QH$Q$HQ$QQQQHN$QNHHQQNN$$$OOOOO7>7?C
+MMMMMNMNNNHQ$HH$QQHQH$$Q$$QH$QNH$QHHHHO$$$OOO??CCO
+MMMMMMNHHQQQHNQHHM$H$$Q$$$$QOHH$CQQHHNQO$$QO$OOOOC
+MMMMMNNHHQQQNQQNMNQQQQHQHQQ$$QQ$CQHNHHHQ$QQO$OOOOC
+MMMNMHQHH$QHQQNNM$NH$HHNHNQNQ$$$Q$HNHQNQOQ$$$OOOOC
+NMNNQQ$O$QQ$$$NMQQQHHNNMNHQHHQQQHQQHQ$MNN$HQ$$OOOC
+NNNM$$OOON$QOHNNQHHQNNMMNQNNHQ$HHQ$HQQNNHQNQ$$$OOO
+MNHH$Q$OQ$QQONNH$HMHMMMMHHNHHHNHQHQQQHNNHHHH$$O$OO
+MNNHHHOO$QHQONNHQNNNMMMNHHHHHNHNNNQHHNH$NHQHQ$$$O$
+MMMNHHO$HHQHONHHHNMNMMMNHHQQHNNMMNNNHQQHNHQMHQ$$$$
+MMNNQQQQN$NHOHNNHMMMMMH$OOO$QNMMMNNMNHNHNHQHNQH$$$
+NNNNHQQHHHNQHHNNNMMMMQC77???$NMMNHNNNHNNNHQQHQ$QO$
+NNNNNOHNHHHQNHNMNMMNHO77OOOCOQQQQHNHQHNNNHHNQQOHOO
+NNNNN$NHNNQHNNNMMMMN$OCO$HNMNQ$$QQH$QNNNNNNH$$O$HO
+NNNNN$HQHHHNNNNMMMNQOCC$QQQQHHQ$$QNNMMNNNMNHQ$$OHO
+NNNNHQHQHNHNNNMMMNHOOOQNNNHHHQ$O$QQQHNNMMMMHMQC?CQ
+NNNNHQHQNNHMNNMMMN$?????ONC$Q$C?OQNMNNHNMMMMNH??>?
+NNNNCHNQNNNNMNMMMHC7>>>7?COOOC?7CHHMQNHNMMNNHHC7:.
+NNOCOHNHNNNHMNNMNQ?7>!>>?CCC??7>7$$$QHQQMMNNNHQ:!-
+N?COOHNHMMNHNNNMN$?7>>>!>7777>>!>C$O$$$QMMMNNNQ77>
+?O?$HHNNNNNNNNNMNO??7777>>>>>7>!>?COOCOQMMMNNNH$C7
+$C$!-7NNNNMNNNHNQO????77>>7?>!>:!7??CCCHMMMNNNH$O?
+C::;;;HNHNMNMMNQQOC?C????7CO!::!>7C??CCMMMNNNNNQO?
+:--;. $NNNMMMMNHQC?CC????COCCQ$CCC???CCMMMNNHNHQC?
+-;...-$NNNMMMMHQ$CCCCC?CCOC?QHH$QNOC?C$MMMMMQNH$?C
+.....:?HNMMMMNQ$OC??C??CCC77?OQQ$OCCCCMMMNMNMNN?7?
+...;;;7QNNMMMH$OCCC????CC?7>>7OOCCCOC$MMNHNNMMO7?C
+.;.;;;!NMMNMMQOOCCCCC??CC?>7$$OCC?CCCMMMMH$NO$CC?C
+-;;;--CQNMNMM$OCCCCC???CCOQHNQHHHOCCOMMMMM$HC??C??
+;;;----QHMMMHOCCCCCC????O$NNNMNMNQCCHMMMMMQOO7????
+;------NHNNN$CCCCCCCCCCCCC?77C$Q$OCOMMNMNN?O$CCCCH
+-------HHMNHOC??CCCCCCCOCCOOOOOCCCCMMMMMHCCO$OO$QH
+------7$HNMHC???CCCCCCCCOO$QQQQQ$OOMMMMH$OCCQ$QHHH
+----;!?ON!?C????CCOCCCCCCCO$QHQ$OOMMMMNNCCCC$QHNNM
+---;:7?M  .?????CCOOCCC?????CCCOO$MMMN$C?>?O$HHNMM
+;:;-:HQ    -7?7??COOCCCCC???CCCC?MHNNOC77?OO$NNMMM
+-;!QQQ$     >77??CC$OOOOOOO$$$OCNMNQO??77O$$QNNNNN
+QQQQQQ$Q     !7??COO$$OOO$$$$$$HM?!:>7?77?C$QNNNMN
+QQ$$OQ$$:     !7?CCO$$$$$OO$$OCM?7!:!7?7:!>$QNNNNN
+Q$$O$Q$$Q      :?COO$$$$$$$$$O$>>O7!:7??::>ONNNNNN
+Q$$$QQ$$$!     .;OO$$$$$$$$$OO:!>!7!::$O?!>$HNNNNN
+Q$$$QQ$$$Q     .;;O$$Q$$$$$OOQ-:!!?!::O$O?>$HNMMNN
+$$$$QQ$$$O>     .--$$QQ$$$$$OCM-:!->:-!$Q$?$QNNNNH
+$$$$QQ$$$$$     .;::CQQQQ$$OOOHM-!-?!--QQQQ$O$Q$Q$
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+http://i.imgflip.com/3si4.jpg
+/home/paul/workspace/memer/meme/lib/python3.5/site-packages/PIL/Image.py:842: ResourceWarning: unclosed file <_io.BufferedReader name='image.jpg'>
+  self.load()
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+http://i.imgflip.com/1bh3.jpg
+/home/paul/workspace/memer/meme/lib/python3.5/site-packages/PIL/Image.py:842: ResourceWarning: unclosed file <_io.BufferedReader name='image.jpg'>
+  self.load()
+http://i.imgflip.com/26ae.jpg
+http://i.imgflip.com/26ae.jpg
+http://i.imgflip.com/2b5p.jpg
+http://i.imgflip.com/51s5.jpg
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+http://i.imgflip.com/m78d.jpg
+/home/paul/workspace/memer/meme/lib/python3.5/site-packages/PIL/Image.py:842: ResourceWarning: unclosed file <_io.BufferedReader name='image.jpg'>
+  self.load()
+http://i.imgflip.com/51s5.jpg
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+http://i.imgflip.com/b2ln.jpg
+/home/paul/workspace/memer/meme/lib/python3.5/site-packages/PIL/Image.py:842: ResourceWarning: unclosed file <_io.BufferedReader name='image.jpg'>
+  self.load()
+http://i.imgflip.com/c2qn.jpg
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading trump: name 'sopel' is not defined (../../../../../../../.sopel/modules/trump.py:3)
+
+
+Registered 45 modules,
+1 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 46 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/trump.py", line 14, in trump
+    api = tweepy.API(authii)
+NameError: name 'authii' is not defined
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 46 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/tweepy/binder.py", line 186, in execute
+    auth=auth,
+UnboundLocalError: local variable 'auth' referenced before assignment
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/trump.py", line 15, in trump
+    user = tweepy.api.get_user('realDonaldTrump')
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/tweepy/binder.py", line 245, in _call
+    return method.execute()
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/tweepy/binder.py", line 189, in execute
+    raise TweepError('Failed to send request: %s' % e)
+tweepy.error.TweepError: Failed to send request: local variable 'auth' referenced before assignment
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 46 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/tweepy/binder.py", line 186, in execute
+    auth=auth,
+UnboundLocalError: local variable 'auth' referenced before assignment
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/trump.py", line 15, in trump
+    user = tweepy.api.get_user('realDonaldTrump')
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/tweepy/binder.py", line 245, in _call
+    return method.execute()
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/tweepy/binder.py", line 189, in execute
+    raise TweepError('Failed to send request: %s' % e)
+tweepy.error.TweepError: Failed to send request: local variable 'auth' referenced before assignment
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 46 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/trump.py", line 18, in trump
+    bot.say(tweet)
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 402, in say
+    self._bot.say(message, destination, max_messages)
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 300, in say
+    text = encoded_text.decode('utf-8')
+AttributeError: 'Status' object has no attribute 'decode'
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 46 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/__init__.py:68: ResourceWarning: unclosed <ssl.SSLSocket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('10.129.225.143', 34626), raddr=('140.211.166.64', 6697)>
+  break
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 46 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/trump.py", line 18, in trump
+    bot.say(dir(tweet))
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 402, in say
+    self._bot.say(message, destination, max_messages)
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 300, in say
+    text = encoded_text.decode('utf-8')
+AttributeError: 'list' object has no attribute 'decode'
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 46 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/trump.py", line 18, in trump
+    bot.say(tweet.author)
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 402, in say
+    self._bot.say(message, destination, max_messages)
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 300, in say
+    text = encoded_text.decode('utf-8')
+AttributeError: 'User' object has no attribute 'decode'
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 46 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_api', '_json', 'author', 'contributors', 'coordinates', 'created_at', 'destroy', 'entities', 'extended_entities', 'favorite', 'favorite_count', 'favorited', 'geo', 'id', 'id_str', 'in_reply_to_screen_name', 'in_reply_to_status_id', 'in_reply_to_status_id_str', 'in_reply_to_user_id', 'in_reply_to_user_id_str', 'is_quote_status', 'lang', 'parse', 'parse_list', 'place', 'possibly_sensitive', 'retweet', 'retweet_count', 'retweeted', 'retweets', 'source', 'source_url', 'text', 'truncated', 'user']
+['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_api', '_json', 'author', 'contributors', 'coordinates', 'created_at', 'destroy', 'entities', 'favorite', 'favorite_count', 'favorited', 'geo', 'id', 'id_str', 'in_reply_to_screen_name', 'in_reply_to_status_id', 'in_reply_to_status_id_str', 'in_reply_to_user_id', 'in_reply_to_user_id_str', 'is_quote_status', 'lang', 'parse', 'parse_list', 'place', 'possibly_sensitive', 'retweet', 'retweet_count', 'retweeted', 'retweets', 'source', 'source_url', 'text', 'truncated', 'user']
+['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_api', '_json', 'author', 'contributors', 'coordinates', 'created_at', 'destroy', 'entities', 'favorite', 'favorite_count', 'favorited', 'geo', 'id', 'id_str', 'in_reply_to_screen_name', 'in_reply_to_status_id', 'in_reply_to_status_id_str', 'in_reply_to_user_id', 'in_reply_to_user_id_str', 'is_quote_status', 'lang', 'parse', 'parse_list', 'place', 'possibly_sensitive', 'retweet', 'retweet_count', 'retweeted', 'retweets', 'source', 'source_url', 'text', 'truncated', 'user']
+['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_api', '_json', 'author', 'contributors', 'coordinates', 'created_at', 'destroy', 'entities', 'favorite', 'favorite_count', 'favorited', 'geo', 'id', 'id_str', 'in_reply_to_screen_name', 'in_reply_to_status_id', 'in_reply_to_status_id_str', 'in_reply_to_user_id', 'in_reply_to_user_id_str', 'is_quote_status', 'lang', 'parse', 'parse_list', 'place', 'retweet', 'retweet_count', 'retweeted', 'retweets', 'source', 'source_url', 'text', 'truncated', 'user']
+['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_api', '_json', 'author', 'contributors', 'coordinates', 'created_at', 'destroy', 'entities', 'favorite', 'favorite_count', 'favorited', 'geo', 'id', 'id_str', 'in_reply_to_screen_name', 'in_reply_to_status_id', 'in_reply_to_status_id_str', 'in_reply_to_user_id', 'in_reply_to_user_id_str', 'is_quote_status', 'lang', 'parse', 'parse_list', 'place', 'retweet', 'retweet_count', 'retweeted', 'retweets', 'source', 'source_url', 'text', 'truncated', 'user']
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 46 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+MAKE AMERICA GREAT AGAIN! 
+#IACaucus #CaucusForTrump
+https://t.co/nU39QHzxxX https://t.co/IrrzLCa2ev
+#IACaucus #CaucusForTrump
+#iCaucused #iVoted
+https://t.co/jSYl2IYjPO
+I want to thank evangelical Christians for the warm embrace I've received on the campaign trail. Video: https://t.co/u6oOcWGePe
+I will be in Iowa all day and until Tuesday morning. Finally, after all these years of watching stupidity, we will MAKE AMERICA GREAT AGAIN!
+Hillary Clinton is a major national security risk. Not presidential material!
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 46 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 46 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/trump.py", line 17, in trump
+    tweet = random.choice(tweets)
+NameError: name 'random' is not defined
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 46 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading cirque: invalid syntax (facebook.py, line 222) (../../../../../../../.sopel/modules/cirque.py:2)
+
+
+Registered 46 modules,
+1 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading cirque: invalid syntax (facebook.py, line 222) (../../../../../../../.sopel/modules/cirque.py:2)
+
+
+Registered 46 modules,
+1 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 47 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/cirque.py", line 7, in cdt
+    graph = facebook.GraphAP(access_token = my_token, version = "2.5")
+AttributeError: module 'facebook' has no attribute 'GraphAP'
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 47 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 47 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/cirque.py", line 7, in cdt
+    graph = facebook.GraphAPI(access_token = my_token, version = "2.5")
+AttributeError: module 'facebook' has no attribute 'GraphAPI'
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 47 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/cirque.py", line 9, in cdt
+    group = graph.get_object(group = "404041393126881")
+TypeError: get_object() missing 1 required positional argument: 'id'
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 47 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/cirque.py", line 9, in cdt
+    group = graph.get_object(id = "404041393126881")
+  File "/home/paul/workspace/memer/meme/src/facebook-sdk/facebook/__init__.py", line 106, in get_object
+    return self.request(self.version + "/" + id, args)
+  File "/home/paul/workspace/memer/meme/src/facebook-sdk/facebook/__init__.py", line 275, in request
+    raise GraphAPIError(result)
+facebook.GraphAPIError: Invalid OAuth access token.
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 47 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/cirque.py", line 9, in cdt
+    group = graph.get_object(id = "404041393126881")
+  File "/home/paul/workspace/memer/meme/src/facebook-sdk/facebook/__init__.py", line 106, in get_object
+    return self.request(self.version + "/" + id, args)
+  File "/home/paul/workspace/memer/meme/src/facebook-sdk/facebook/__init__.py", line 275, in request
+    raise GraphAPIError(result)
+facebook.GraphAPIError: Invalid OAuth access token.
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 47 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/cirque.py", line 9, in cdt
+    group = graph.get_object(id = "404041393126881")
+  File "/home/paul/workspace/memer/meme/src/facebook-sdk/facebook/__init__.py", line 106, in get_object
+    return self.request(self.version + "/" + id, args)
+  File "/home/paul/workspace/memer/meme/src/facebook-sdk/facebook/__init__.py", line 275, in request
+    raise GraphAPIError(result)
+facebook.GraphAPIError: Invalid OAuth access token.
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 47 modules,
+0 modules failed to load
+
+
+Connecting to irc.oftc.net:6697...
+Connected.
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/cirque.py", line 6, in cdt
+    my_token = facebook.get_app_access_token("1081766428540462", "12ae4a86e2a064a137c4fe10390956bf")
+AttributeError: module 'facebook' has no attribute 'get_app_access_token'
+
+KeyboardInterrupt

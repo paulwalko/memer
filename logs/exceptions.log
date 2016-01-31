@@ -1,0 +1,346 @@
+Signature: AttributeError: module 'urllib' has no attribute 'open' (file "/home/paul/.sopel/modules/meme.py", line 9, in meme)
+from pew at 2016-01-30 17:11:07.678183. Message was: .meme
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 9, in meme
+    response = urllib.open(url)
+AttributeError: module 'urllib' has no attribute 'open'
+----------------------------------------
+
+Signature: AttributeError: module 'urllib' has no attribute 'open' (file "/home/paul/.sopel/modules/meme.py", line 9, in meme)
+from pew at 2016-01-30 17:11:15.487568. Message was: .meme
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 9, in meme
+    response = urllib.open(url)
+AttributeError: module 'urllib' has no attribute 'open'
+----------------------------------------
+
+Signature: AttributeError: module 'urllib' has no attribute 'urlopen' (file "/home/paul/.sopel/modules/meme.py", line 9, in meme)
+from pew at 2016-01-30 17:12:25.072990. Message was: .meme
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 9, in meme
+    response = urllib.urlopen(url)
+AttributeError: module 'urllib' has no attribute 'urlopen'
+----------------------------------------
+
+Signature: urllib.error.HTTPError: HTTP Error 403: Forbidden (file "/usr/lib64/python3.5/urllib/request.py", line 589, in http_error_default)
+from pew at 2016-01-30 17:15:54.779825. Message was: .meme
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 9, in meme
+    response = urllib.request.urlopen(url)
+  File "/usr/lib64/python3.5/urllib/request.py", line 162, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib64/python3.5/urllib/request.py", line 471, in open
+    response = meth(req, response)
+  File "/usr/lib64/python3.5/urllib/request.py", line 581, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib64/python3.5/urllib/request.py", line 509, in error
+    return self._call_chain(*args)
+  File "/usr/lib64/python3.5/urllib/request.py", line 443, in _call_chain
+    result = func(*args)
+  File "/usr/lib64/python3.5/urllib/request.py", line 589, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+----------------------------------------
+
+Signature: urllib.error.HTTPError: HTTP Error 403: Forbidden (file "/usr/lib64/python3.5/urllib/request.py", line 589, in http_error_default)
+from pew at 2016-01-30 17:18:37.842089. Message was: .meme
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 9, in meme
+    response = urllib.request.urlopen(url)
+  File "/usr/lib64/python3.5/urllib/request.py", line 162, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib64/python3.5/urllib/request.py", line 471, in open
+    response = meth(req, response)
+  File "/usr/lib64/python3.5/urllib/request.py", line 581, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib64/python3.5/urllib/request.py", line 509, in error
+    return self._call_chain(*args)
+  File "/usr/lib64/python3.5/urllib/request.py", line 443, in _call_chain
+    result = func(*args)
+  File "/usr/lib64/python3.5/urllib/request.py", line 589, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+----------------------------------------
+
+Signature: urllib.error.HTTPError: HTTP Error 403: Forbidden (file "/usr/lib64/python3.5/urllib/request.py", line 589, in http_error_default)
+from pew at 2016-01-30 17:23:11.170107. Message was: .meme
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 9, in meme
+    with urllib.request.urlopen(url) as response, open(data.json, 'wb') as out_file:
+  File "/usr/lib64/python3.5/urllib/request.py", line 162, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib64/python3.5/urllib/request.py", line 471, in open
+    response = meth(req, response)
+  File "/usr/lib64/python3.5/urllib/request.py", line 581, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib64/python3.5/urllib/request.py", line 509, in error
+    return self._call_chain(*args)
+  File "/usr/lib64/python3.5/urllib/request.py", line 443, in _call_chain
+    result = func(*args)
+  File "/usr/lib64/python3.5/urllib/request.py", line 589, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+----------------------------------------
+
+Signature: UnboundLocalError: local variable 'data' referenced before assignment (file "/home/paul/.sopel/modules/meme.py", line 14, in meme)
+from pew at 2016-01-30 17:28:26.927559. Message was: .meme
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 14, in meme
+    with urllib.request.urlopen(request) as response, open(data.json, 'wb') as out_file:
+UnboundLocalError: local variable 'data' referenced before assignment
+----------------------------------------
+
+Signature: NameError: name 'jsonResponse' is not defined (file "/home/paul/.sopel/modules/meme.py", line 21, in meme)
+from pew at 2016-01-30 17:31:19.686383. Message was: .meme
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 21, in meme
+    jsonList = jsonResponse["data"]
+NameError: name 'jsonResponse' is not defined
+----------------------------------------
+
+Signature: KeyError: 0 (file "/home/paul/workspace/memer/meme/lib/python3.5/random.py", line 256, in choice)
+from pew at 2016-01-30 17:33:13.684901. Message was: .meme
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 22, in meme
+    memeData = random.choice(jsonList)
+  File "/home/paul/workspace/memer/meme/lib/python3.5/random.py", line 256, in choice
+    return seq[i]
+KeyError: 0
+----------------------------------------
+
+Signature: AttributeError: module 'urllib' has no attribute 'urlopen' (file "/home/paul/.sopel/modules/meme.py", line 28, in meme)
+from pew at 2016-01-30 17:46:36.114731. Message was: .meme
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 28, in meme
+    f.write(urllib.urlopen(memeURL).read())
+AttributeError: module 'urllib' has no attribute 'urlopen'
+----------------------------------------
+
+Signature: urllib.error.HTTPError: HTTP Error 403: Forbidden (file "/usr/lib64/python3.5/urllib/request.py", line 589, in http_error_default)
+from pew at 2016-01-30 17:47:16.339001. Message was: .meme
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/meme.py", line 28, in meme
+    f.write(urllib.request.urlopen(memeURL).read())
+  File "/usr/lib64/python3.5/urllib/request.py", line 162, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib64/python3.5/urllib/request.py", line 471, in open
+    response = meth(req, response)
+  File "/usr/lib64/python3.5/urllib/request.py", line 581, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib64/python3.5/urllib/request.py", line 509, in error
+    return self._call_chain(*args)
+  File "/usr/lib64/python3.5/urllib/request.py", line 443, in _call_chain
+    result = func(*args)
+  File "/usr/lib64/python3.5/urllib/request.py", line 589, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+----------------------------------------
+
+Signature: NameError: name 'authii' is not defined (file "/home/paul/.sopel/modules/trump.py", line 14, in trump)
+from pew at 2016-01-30 19:00:43.418647. Message was: .trump
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/trump.py", line 14, in trump
+    api = tweepy.API(authii)
+NameError: name 'authii' is not defined
+----------------------------------------
+
+Signature: tweepy.error.TweepError: Failed to send request: local variable 'auth' referenced before assignment (file "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/tweepy/binder.py", line 189, in execute)
+from pew at 2016-01-30 19:02:10.533530. Message was: .trump
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/tweepy/binder.py", line 186, in execute
+    auth=auth,
+UnboundLocalError: local variable 'auth' referenced before assignment
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/trump.py", line 15, in trump
+    user = tweepy.api.get_user('realDonaldTrump')
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/tweepy/binder.py", line 245, in _call
+    return method.execute()
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/tweepy/binder.py", line 189, in execute
+    raise TweepError('Failed to send request: %s' % e)
+tweepy.error.TweepError: Failed to send request: local variable 'auth' referenced before assignment
+----------------------------------------
+
+Signature: tweepy.error.TweepError: Failed to send request: local variable 'auth' referenced before assignment (file "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/tweepy/binder.py", line 189, in execute)
+from pew at 2016-01-30 19:04:57.592608. Message was: .trump
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/tweepy/binder.py", line 186, in execute
+    auth=auth,
+UnboundLocalError: local variable 'auth' referenced before assignment
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/trump.py", line 15, in trump
+    user = tweepy.api.get_user('realDonaldTrump')
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/tweepy/binder.py", line 245, in _call
+    return method.execute()
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/tweepy/binder.py", line 189, in execute
+    raise TweepError('Failed to send request: %s' % e)
+tweepy.error.TweepError: Failed to send request: local variable 'auth' referenced before assignment
+----------------------------------------
+
+Signature: AttributeError: 'Status' object has no attribute 'decode' (file "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 300, in say)
+from pew at 2016-01-30 19:06:48.399804. Message was: .trump
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/trump.py", line 18, in trump
+    bot.say(tweet)
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 402, in say
+    self._bot.say(message, destination, max_messages)
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 300, in say
+    text = encoded_text.decode('utf-8')
+AttributeError: 'Status' object has no attribute 'decode'
+----------------------------------------
+
+Signature: AttributeError: 'list' object has no attribute 'decode' (file "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 300, in say)
+from pew at 2016-01-30 19:10:47.992309. Message was: .trump
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/trump.py", line 18, in trump
+    bot.say(dir(tweet))
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 402, in say
+    self._bot.say(message, destination, max_messages)
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 300, in say
+    text = encoded_text.decode('utf-8')
+AttributeError: 'list' object has no attribute 'decode'
+----------------------------------------
+
+Signature: AttributeError: 'User' object has no attribute 'decode' (file "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 300, in say)
+from pew at 2016-01-30 19:12:08.072288. Message was: .trump
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/trump.py", line 18, in trump
+    bot.say(tweet.author)
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 402, in say
+    self._bot.say(message, destination, max_messages)
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 300, in say
+    text = encoded_text.decode('utf-8')
+AttributeError: 'User' object has no attribute 'decode'
+----------------------------------------
+
+Signature: NameError: name 'random' is not defined (file "/home/paul/.sopel/modules/trump.py", line 17, in trump)
+from pew at 2016-01-30 19:17:52.592433. Message was: .trump
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/trump.py", line 17, in trump
+    tweet = random.choice(tweets)
+NameError: name 'random' is not defined
+----------------------------------------
+
+Signature: AttributeError: module 'facebook' has no attribute 'GraphAP' (file "/home/paul/.sopel/modules/cirque.py", line 7, in cdt)
+from pew at 2016-01-30 19:43:47.337505. Message was: .cdt
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/cirque.py", line 7, in cdt
+    graph = facebook.GraphAP(access_token = my_token, version = "2.5")
+AttributeError: module 'facebook' has no attribute 'GraphAP'
+----------------------------------------
+
+Signature: AttributeError: module 'facebook' has no attribute 'GraphAPI' (file "/home/paul/.sopel/modules/cirque.py", line 7, in cdt)
+from pew at 2016-01-30 19:44:47.777992. Message was: .cdt
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/cirque.py", line 7, in cdt
+    graph = facebook.GraphAPI(access_token = my_token, version = "2.5")
+AttributeError: module 'facebook' has no attribute 'GraphAPI'
+----------------------------------------
+
+Signature: TypeError: get_object() missing 1 required positional argument: 'id' (file "/home/paul/.sopel/modules/cirque.py", line 9, in cdt)
+from pew at 2016-01-30 19:58:11.822672. Message was: .cdt
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/cirque.py", line 9, in cdt
+    group = graph.get_object(group = "404041393126881")
+TypeError: get_object() missing 1 required positional argument: 'id'
+----------------------------------------
+
+Signature: facebook.GraphAPIError: Invalid OAuth access token. (file "/home/paul/workspace/memer/meme/src/facebook-sdk/facebook/__init__.py", line 275, in request)
+from pew at 2016-01-30 19:59:29.142068. Message was: .cdt
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/cirque.py", line 9, in cdt
+    group = graph.get_object(id = "404041393126881")
+  File "/home/paul/workspace/memer/meme/src/facebook-sdk/facebook/__init__.py", line 106, in get_object
+    return self.request(self.version + "/" + id, args)
+  File "/home/paul/workspace/memer/meme/src/facebook-sdk/facebook/__init__.py", line 275, in request
+    raise GraphAPIError(result)
+facebook.GraphAPIError: Invalid OAuth access token.
+----------------------------------------
+
+Signature: facebook.GraphAPIError: Invalid OAuth access token. (file "/home/paul/workspace/memer/meme/src/facebook-sdk/facebook/__init__.py", line 275, in request)
+from pew at 2016-01-30 20:01:27.949598. Message was: .cdt
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/cirque.py", line 9, in cdt
+    group = graph.get_object(id = "404041393126881")
+  File "/home/paul/workspace/memer/meme/src/facebook-sdk/facebook/__init__.py", line 106, in get_object
+    return self.request(self.version + "/" + id, args)
+  File "/home/paul/workspace/memer/meme/src/facebook-sdk/facebook/__init__.py", line 275, in request
+    raise GraphAPIError(result)
+facebook.GraphAPIError: Invalid OAuth access token.
+----------------------------------------
+
+Signature: facebook.GraphAPIError: Invalid OAuth access token. (file "/home/paul/workspace/memer/meme/src/facebook-sdk/facebook/__init__.py", line 275, in request)
+from pew at 2016-01-30 20:07:43.032009. Message was: .cdt
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/cirque.py", line 9, in cdt
+    group = graph.get_object(id = "404041393126881")
+  File "/home/paul/workspace/memer/meme/src/facebook-sdk/facebook/__init__.py", line 106, in get_object
+    return self.request(self.version + "/" + id, args)
+  File "/home/paul/workspace/memer/meme/src/facebook-sdk/facebook/__init__.py", line 275, in request
+    raise GraphAPIError(result)
+facebook.GraphAPIError: Invalid OAuth access token.
+----------------------------------------
+
+Signature: AttributeError: module 'facebook' has no attribute 'get_app_access_token' (file "/home/paul/.sopel/modules/cirque.py", line 6, in cdt)
+from pew at 2016-01-30 20:17:50.653861. Message was: .cdt
+Traceback (most recent call last):
+  File "/home/paul/workspace/memer/meme/lib/python3.5/site-packages/sopel/bot.py", line 441, in call
+    exit_code = func(sopel, trigger)
+  File "/home/paul/.sopel/modules/cirque.py", line 6, in cdt
+    my_token = facebook.get_app_access_token("1081766428540462", "12ae4a86e2a064a137c4fe10390956bf")
+AttributeError: module 'facebook' has no attribute 'get_app_access_token'
+----------------------------------------
+
