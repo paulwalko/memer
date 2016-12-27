@@ -1,5 +1,5 @@
 # memer
-An entertainment irc bot with a couple functions:
+A module for the sopel irc bot, and entertainment irc bot with a couple functions:
 ## .meme
 Outputs about a 20 line ascii image into the irc chat.
 
